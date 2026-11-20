@@ -2,7 +2,7 @@
 
 [![SQL](https://img.shields.io/badge/dialect-MySQL%20%7C%20PostgreSQL-orange.svg)](#)
 [![Difficulty: Medium & Hard](https://img.shields.io/badge/difficulty-Medium%20%7C%20Hard-blue.svg)](#)
-[![Problems: 30+](https://img.shields.io/badge/solved-30%2B%20problems-success.svg)](#)
+
 
 A curated collection of production-grade and competitive SQL solutions focused on **analytical problem-solving, advanced window functions, hierarchical joins, and business logic execution**.
 
